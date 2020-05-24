@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:0,DE: RTL HD
-#EXTGRP:unsorted
 http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/410
 #EXTINF:0,DE: RTL Living HD
 #EXTGRP:unsorted
